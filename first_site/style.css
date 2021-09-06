@@ -1,0 +1,32 @@
+.title{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+}
+
+#title_Brushes{
+    background-color: mediumspringgreen;
+}
+
+#title_Frames{
+    background-color: lightcoral;
+}
+
+#title_Paint{
+    background-color: skyblue;
+}
+
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("pattern.jpeg");
+}
+
+strong{
+    font-family: Helvetica;
+    color:blue;
+}
